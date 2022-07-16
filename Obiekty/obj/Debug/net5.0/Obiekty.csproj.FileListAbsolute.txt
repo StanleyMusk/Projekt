@@ -1,0 +1,12 @@
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\bin\Debug\net5.0\Obiekty.deps.json
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\bin\Debug\net5.0\Obiekty.dll
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\bin\Debug\net5.0\ref\Obiekty.dll
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\bin\Debug\net5.0\Obiekty.pdb
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.csproj.AssemblyReference.cache
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.AssemblyInfoInputs.cache
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.AssemblyInfo.cs
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.dll
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\ref\Obiekty.dll
+C:\Users\Andrzej\source\repos\Zaliczenie\Obiekty\obj\Debug\net5.0\Obiekty.pdb
